@@ -1,0 +1,7 @@
+{
+  "name": "NeatStep AI - Intelligent File Cleaner",
+  "description": "A sophisticated AI-powered file organization and cleanup assistant that intelligently renames, categorizes, and organizes your files using Gemini Pro.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
